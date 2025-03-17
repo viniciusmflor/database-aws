@@ -13,5 +13,4 @@ A aplicação permite adicionar e listar registros armazenados em um banco de da
 - **HTML, CSS, JavaScript** - Frontend da aplicação
 - **GitHub** - Controle de versão
 
-##Código
 
